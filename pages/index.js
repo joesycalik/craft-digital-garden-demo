@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>My Digital Garden!</title>
+        <title>Creating a Website with Craft and Netlify</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
